@@ -1,3 +1,3 @@
 # Felix
 
-UML Diagram software: http://argouml.tigris.org/
+A fiery project!
